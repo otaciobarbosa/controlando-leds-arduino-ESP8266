@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\xampp\\htdocs\\arduino\\FeiraTecnologica\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "C:\\xampp\\htdocs\\arduino\\FeiraTecnologica\\platforms\\android\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "D:\\servidor\\htdocs\\mobile\\FeiraTecnologica\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "D:\\servidor\\htdocs\\mobile\\FeiraTecnologica\\platforms\\android\\res\\xml\\config.xml"
+    }
+]
