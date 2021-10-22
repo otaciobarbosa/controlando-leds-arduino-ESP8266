@@ -38,7 +38,6 @@ $RECYCLE.BIN/
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
-platforms\android\cordova\node_modules
 
 # Directories potentially created on remote AFP share
 .AppleDB
