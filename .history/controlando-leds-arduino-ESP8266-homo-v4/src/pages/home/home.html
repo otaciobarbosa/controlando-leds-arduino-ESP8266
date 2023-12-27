@@ -1,0 +1,33 @@
+<ion-content padding class="app-font">
+<ion-card>
+
+  <ion-card-header>
+
+  </ion-card-header>
+
+  <ion-card-content>
+    <img width="250" height="200" src="assets/img/top.jpg"/> 
+  </ion-card-content>
+
+</ion-card> 
+<br>
+    <ion-item>
+      <ion-label>LED1</ion-label>
+      <ion-toggle color="royal" [(ngModel)]="led1" (ionChange)="toggleled1()"></ion-toggle>
+    </ion-item>
+    <br>
+    <ion-item>
+      <ion-label>LED2</ion-label>
+      <ion-toggle color="secondary" [(ngModel)]="led2" (ionChange)="toggleled2()"></ion-toggle>
+    </ion-item>
+    <br>
+    <ion-item>
+      <ion-label>LED3</ion-label>
+      <ion-toggle color="danger" [(ngModel)]="led3" (ionChange)="toggleled3()"></ion-toggle>
+    </ion-item>
+    <br>
+    <ion-item>
+      <ion-label>LED4</ion-label>
+      <ion-toggle color="danger" [(ngModel)]="led4" (ionChange)="toggleled4()"></ion-toggle>
+    </ion-item>     
+</ion-content>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\xampp\htdocs\arduino\FeiraTecnologica\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e29e17feb5c194b0eee3cc76938b82472faee51">
+        <dex dex="C:\xampp\htdocs\arduino\FeiraTecnologica\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_db109090678c21356d98b995baa7e61fa1316cb7.jar" />
+    </item>
+
+</items>
